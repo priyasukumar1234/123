@@ -4,8 +4,6 @@
 
 [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTVmYjkxYzMtZDEwZC00MGE3LWJhMjctOTYwMTViZjQyYWQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-[
-
 ### Introduction
 
 The Hospital Consumer Assessment of Healthcare Providers and Systems **(HCAHPS) survey is a standardized tool used to measure patients` perceptions of their hospital experiences** in the United States.

@@ -1,10 +1,10 @@
 # Healthcare-HCAHPS-Survey-Analysis - American Hospital Association
 
-[LinkedIn Post](https://www.linkedin.com/posts/mythilyramanathan_healthcare-hcahps-survey-analysis-activity-7138279753186189312-O_zO?utm_source=share&utm_medium=member_desktop)
+
 
 [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTVmYjkxYzMtZDEwZC00MGE3LWJhMjctOTYwMTViZjQyYWQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-[Video Presentation](https://youtu.be/ZrmpuJmeVGc?si=3dS7Y5OGSs96Deme)
+[
 
 ### Introduction
 
@@ -138,7 +138,7 @@ While generating the heat map visual:
 - Used this rank in the conditional formatting to get my result.
   
 ![Screenshot 2023-12-01 212826](https://github.com/mythilyram/Healthcare-HCAHPS-Survey-Analysis/assets/123518126/432f9572-e850-43e9-b29e-9576f58fdc01)
-https://www.youtube.com/watch?v=Mv1arp_Cc9o&t=313s
+
 ### Conclusion
 
  The Maven Analytics healthcare challenge provided a rewarding journey into evaluating the quality of care in hospitals through the lens of HCAHPS survey data spanning nine years. The analysis illuminated crucial aspects, including overall improvements and areas that demand focused attention.
